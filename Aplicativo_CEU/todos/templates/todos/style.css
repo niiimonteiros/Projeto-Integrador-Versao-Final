@@ -68,6 +68,7 @@ hr {
 }
 .imagemceu {
     border-radius: 10px;
+    width: 370px;
 }
 .atividade {
     color: #1096c9;
@@ -88,9 +89,10 @@ hr {
     margin-bottom: 30px;
 }
 button {
+    border-style: none;
     font-weight: 500;
     font-family: nexa;
-    border: 2px solid #1096c9;
+    border: none none none;
     cursor:pointer;
     transition-duration: 0.4s;
     font-size: 20px;
